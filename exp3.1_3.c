@@ -1,3 +1,5 @@
+//wap to check wheatherthree given points (x1, y1), (x2, y2), (x3, y3) are collinear or not 
+
 #include <stdio.h>
 int main()
 {
